@@ -35,7 +35,12 @@ This Python script provides a simple graphical user interface (GUI) for translat
 
 ## Credits
 tkinter: Standard GUI library for Python.
+
 translate: Developed by Saphyraex and contributors.
+
 gtts: Developed by Pierre Nicolas Durette and contributors.
+
 speech_recognition: Developed by Anthony Zhang and contributors.
+
 pygame: Developed by the pygame community.
+
