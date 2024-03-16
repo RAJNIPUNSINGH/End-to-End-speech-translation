@@ -22,7 +22,7 @@ This Python script provides a simple graphical user interface (GUI) for translat
 ## GUI Components
 - **Text to Translate:** Text entry field for entering the text to be translated.
 - **File Path:** Entry field for displaying the selected file path when translating audio files.
-- **Target Language Code:** Entry field for specifying the target language code for translation.
+- **Target Language Code:** Entry field for specifying the target language code for translation(for e.g., "hi" for "Hindi").
 - **Translate Text:** Button for translating entered text and saving the translated audio.
 - **Translate File:** Button for translating selected audio file.
 - **Translate from Microphone:** Button for translating speech input from the microphone.
