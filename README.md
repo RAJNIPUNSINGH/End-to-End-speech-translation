@@ -13,7 +13,7 @@ This Python script provides a simple graphical user interface (GUI) for translat
 ## Usage
 1. Run the script `S2Sfinal.py`.
 2. Enter text to be translated in the "Text to Translate" field.
-3. Optionally, provide a target language code in the "Target Language Code" field.
+3. Optionally, provide a target language code in the "Target Language Code" field (for e.g., "hi" for "Hindi").
 4. Click the "Translate Text" button to translate the entered text. The translated audio will be saved as "final_translated_speech.mp3".
 5. Alternatively, you can translate an audio file by clicking the "Browse" button to select an audio file, then clicking the "Translate File" button.
 6. To translate from microphone input, click the "Translate from Microphone" button and speak into the microphone when prompted.
