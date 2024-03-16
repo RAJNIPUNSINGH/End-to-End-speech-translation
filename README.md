@@ -1,4 +1,4 @@
-## SPEECH TO SPEECH TRANSLATION (S2Sfinal.py)
+## SPEECH TO SPEECH TRANSLATION
 
 This Python script provides a simple graphical user interface (GUI) for translating text and audio files into different languages. It also allows for translation directly from microphone input.
 
